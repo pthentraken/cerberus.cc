@@ -20,4 +20,4 @@ end
 
 return function() 
     return setmetatable({_callbacks = {}}, switch) 
-end)
+end
